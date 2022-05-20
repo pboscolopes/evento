@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 252, 252);
+    background-image: url("palestra.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+   
+
+
+}
+
+input{ 
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(166, 159, 159);
+    background-color:rgb(233, 230, 223);
+    width: 100%; 
+    margin-bottom: 8px;
+    margin-top:3px;
+    border:none;
+    
+
+}
+
+
+h1{
+    position: center;
+    text-align: center;
+    background-color: rgb(161, 143, 120);
+   
+ 
+
+}
+
+h3{
+    text-align:left;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.Container{
+  float: right;
+  background-color:  rgb(161, 143, 120);
+  text-align: left;
+  max-width: 225px;
+  padding: 8px 20px;
+  margin: 20px;
+  padding-right: 28px;
+  padding-top:15px;
+
+  box-sizing: border-box;
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0%;
+    text-align:left;
+    padding:0px 40px;
+    color: rgb(0, 0, 0);
+    background-color:  rgb(49, 49, 49);
+    width: 100%;
+    box-sizing: border-box;
+    background-color:rgb(178, 158, 131);
+    padding-top:20px;
+  
+}
+ .picture{
+
+width: 160px;
+
+
+ }
+
+.description{
+    display: inline-block;
+    color: white;
+    max-width: 40%;
+    margin-left: 20px;
+}
+.description p, .description h3{
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+button{
+ padding:8px;
+ margin-top: 10px;
+ color: black;
+ background-color:rgb(178, 158, 131);
+ width:104%;
+ 
+
+}
